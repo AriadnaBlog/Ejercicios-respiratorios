@@ -1,0 +1,22 @@
+#optins-links{
+    color: #3787e2;
+}
+
+#optins-links:hover{
+    color: blue;
+}
+
+#ejercicios-word{
+    color: #3787e2;
+}
+
+
+footer{
+    width: 100%;
+    background-color: #f8f9fa;
+    color: black;
+    height: 40px;
+    margin-top: 1vh;
+}
+
+
